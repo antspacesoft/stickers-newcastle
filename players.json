@@ -1,0 +1,18 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.newcastle",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"players2021a",
+         "name":"Players 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"players2021b",
+         "name":"Players 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      }
+   ]
+}
