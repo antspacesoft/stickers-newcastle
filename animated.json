@@ -3,24 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"club1",
-         "name":"Club",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"players2021a",
-         "name":"Players 2021 (1)",
-         "animated_sticker_pack":false,
-         "stickers":"27"
-      },
-      {
-         "identifier":"players2021b",
-         "name":"Players 2021 (2)",
-         "animated_sticker_pack":false,
-         "stickers":"26"
-      },
-      {
          "identifier":"animated1",
          "name":"Animated 1",
          "animated_sticker_pack":true,
