@@ -1,0 +1,48 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.newcastle",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"premier2223m14",
+         "name":"vs Aston Villa",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"premier2223m13",
+         "name":"vs Tottenham",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"premier2223m12",
+         "name":"vs Everton",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"premier2223m10",
+         "name":"vs Brentford",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"premier2223m9",
+         "name":"vs Fulham",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"eflcup2223t",
+         "name":"vs Tranmere",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"premier2223m1",
+         "name":"vs Nottingham",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }
+   ]
+}
