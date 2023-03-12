@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2223m27",
+         "name":"vs Wolves",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"eflcup2223s2",
          "name":"vs Southampton (2)",
          "animated_sticker_pack":false,
