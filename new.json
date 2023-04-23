@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2223m32a",
+         "name":"vs Tottenham (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"premier2223m32b",
+         "name":"vs Tottenham (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"premier2223m30",
          "name":"vs Brentford",
          "animated_sticker_pack":false,
