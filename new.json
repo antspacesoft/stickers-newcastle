@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2324fg2a",
+         "name":"vs PSG (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ucl2324fg2b",
+         "name":"vs PSG (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"premier2324m7",
          "name":"vs Burnley",
          "animated_sticker_pack":false,
